@@ -1,16 +1,29 @@
-## Hi there 👋
+# Halo, saya Satria Nicky Hayden Harmoni Lasani! 👋
 
-<!--
-**satrianickykusuma/satrianickykusuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Tentang Saya
+Mahasiswa Matematika di Universitas Negeri Gorontalo dengan minat di:
+- 📊 Analisis Matematis & Pemecahan Masalah
+- 💻 Pengembangan Web & Pemrograman Python
+- 🤝 Inklusivitas Sosial & Pendampingan Disabilitas
+- 🗣️ Public Speaking & Kepemimpinan
 
-Here are some ideas to get you started:
+## 🏆 Prestasi
+- 🥈 Medali Perak Olimpiade Matematika POSI (Nasional)
+- 🥉 Juara III LKTI Nasional - Universitas Negeri Makassar
+- 🥉 Juara III Lomba DAI Milenial (Provinsi)
+- 🥈 Medali Perak PKM AMLI - Asosiasi MIPA LPTK Indonesia
+- 🥉 Pemenang III Duta Bahasa Provinsi Gorontalo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Pengalaman Organisasi
+- **Ketua Bidang Kesekretariatan** @ Rangkul Asa (2025-sekarang)
+- **Anggota Keuangan** @ Ikatan Duta Bahasa Provinsi Gorontalo (2025-sekarang)
+- **Anggota** @ Himpunan Mahasiswa Matematika UNG (2024-2025)
+
+## 🛠️ Skill & Teknologi
+- Python | HTML/CSS | JavaScript
+- LaTeX | Markdown
+- BISINDO (Bahasa Isyarat)
+
+## 📫 Hubungi Saya
+- Email: satrianickykusuma@gmail.com
+- GitHub: [github.com/usernamekamu]
