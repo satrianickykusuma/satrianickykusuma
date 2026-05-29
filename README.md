@@ -1,40 +1,89 @@
-![Profile Views](https://komarev.com/ghpvc/?username=satrianickykusuma&color=blue)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&width=600&lines=Mahasiswa+Matematika;Pengembang+Web;Duta+Bahasa+Gorontalo)](https://git.io/typing-svg)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satrianickykusuma@gmail.com)
-[![trophy](https://github-profile-trophy.vercel.app/?username=satrianickykusuma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-# Halo, saya Satria Nicky Hayden Harmoni Lasani! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Satria+Nicky+Hayden+Harmoni+Lasani;Mahasiswa+Matematika;Pengembang+Web;Duta+Bahasa+Gorontalo" alt="Typing SVG" />
+</h1>
 
-## 📌 Tentang Saya
-Mahasiswa Matematika di Universitas Negeri Gorontalo dengan minat di:
-- 📊 Analisis Matematis & Pemecahan Masalah
-- 💻 Pengembangan Web & Pemrograman Python
-- 🤝 Inklusivitas Sosial & Pendampingan Disabilitas
-- 🗣️ Public Speaking & Kepemimpinan
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAMEMU&color=blue&style=flat-square&label=Profile+Views" />
+</p>
 
-## 🏆 Prestasi
-- 🥈 Medali Perak Olimpiade Matematika POSI (Nasional)
-- 🥉 Juara III LKTI Nasional - Universitas Negeri Makassar
-- 🥉 Juara III Lomba DAI Milenial (Provinsi)
-- 🥈 Medali Perak PKM AMLI - Asosiasi MIPA LPTK Indonesia
-- 🥉 Pemenang III Duta Bahasa Provinsi Gorontalo
+---
 
-## 💼 Pengalaman Organisasi
-- **Ketua Bidang Kesekretariatan** @ Rangkul Asa (2025-sekarang)
-- **Anggota Keuangan** @ Ikatan Duta Bahasa Provinsi Gorontalo (2025-sekarang)
-- **Anggota** @ Himpunan Mahasiswa Matematika UNG (2024-2025)
+### 👨‍🎓 Tentang Saya
 
-## 🛠️ Skill & Teknologi
-- Python | HTML/CSS | JavaScript
-- LaTeX | Markdown
-- BISINDO (Bahasa Isyarat)
+<p align="center">
+  🎓 Mahasiswa Matematika @ Universitas Negeri Gorontalo <br>
+  💻 Tertarik di <b>Pengembangan Web</b> & <b>Pemrograman Python</b> <br>
+  🤝 Aktif di <b>Rangkul Asa</b> (Inklusivitas & Pendampingan Disabilitas) <br>
+  🗣️ <b>Duta Bahasa</b> Provinsi Gorontalo & Pengguna <b>BISINDO</b>
+</p>
 
-## 📫 Hubungi Saya
-- Email: satrianickykusuma@gmail.com
-- GitHub: [github.com/usernamekamu]
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satrianickykusuma&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satrianickykusuma&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?username=satrianickykusuma&theme=tokyonight)
+### 🏆 Prestasi
+
+<details>
+<summary><b>Klik untuk lihat detail prestasi</b> 📜</summary>
+<br>
+
+| Tahun | Prestasi | Tingkat |
+|-------|----------|---------|
+| 2025 | 🥈 Medali Perak PKM AMLI | 🇮🇩 Nasional |
+| 2025 | 🥉 Pemenang III Duta Bahasa Gorontalo | 🗺️ Provinsi |
+| 2024 | 🥈 Medali Perak Olimpiade Matematika POSI | 🇮🇩 Nasional |
+| 2024 | 🥉 Juara III Lomba Karya Tulis Ilmiah | 🇮🇩 Nasional |
+| 2024 | 🥉 Juara III Lomba DAI Milenial | 🗺️ Provinsi |
+
+</details>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Statistik
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEMU&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEMU&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?username=USERNAMEMU&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💭 Quote of the Day
+
+> ### "Jadilah pribadi yang berdampak, bukan sekadar hadir."
+
+<p align="right">— Satria Nicky</p>
+
+---
+
+### 📫 Hubungi Saya
+
+<p align="center">
+  <a href="mailto:satrianickykusuma@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/USERNAMEMU">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Terima kasih sudah mampir!</b> ⭐
+</p>
